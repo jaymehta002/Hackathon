@@ -1,0 +1,16 @@
+form{
+    color: black;
+}
+input{
+    color: black;
+}
+
+#preloader{
+    background: #fff url('preloader.gif') no-repeat center center;
+    background-size: 20%;
+    height: 100vh;
+    width: 100%;
+    z-index: 100;
+    position: fixed;
+}
+
